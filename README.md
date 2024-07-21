@@ -12,3 +12,4 @@ Click "=" to get the result.
 Click "Ac" to clear the input.
 Demo
 You can view the live demo here. https://nazia78.github.io/CodeAlpha_Calculator/
+![image](https://github.com/user-attachments/assets/7046ff5f-170c-4e76-b7f0-d8d232ec4ff2)
