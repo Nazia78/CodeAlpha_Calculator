@@ -9,6 +9,6 @@ Division: Divide numbers with precision.
 Usage
 Enter numbers and select the desired operation.
 Click "=" to get the result.
-Click "C" to clear the input.
+Click "Ac" to clear the input.
 Demo
 You can view the live demo here. https://nazia78.github.io/CodeAlpha_Calculator/
